@@ -1,0 +1,4 @@
+id,date,product,category,quantity,price,region,payment
+TXN10001,2026-03-15,Wireless Headphones,Electronics,2,89.99,North America,Credit Card
+TXN10002,2026-03-16,Leather Jacket Classic,Apparel,1,150,Europe,PayPal
+TXN10003,2026-03-17,Smart Coffee Cup,Home & Kitchen,3,45,Asia-Pacific,Bank Transfer
